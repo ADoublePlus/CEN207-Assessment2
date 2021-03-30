@@ -4,13 +4,25 @@ public class OpenPanel : MonoBehaviour
 {
     public GameObject Panel;
 
+    public GameObject _buttonOff;
+    public GameObject _buttonOn;
+
     public void PanelOpener()
     {
+        bool isActive = Panel.activeSelf;
         if (Panel != null)
         {
-            bool isActive = Panel.activeSelf;
-
             Panel.SetActive(!isActive);
+        }
+        if (Panel != isActive)
+        {
+            _buttonOff.SetActive(false);
+            _buttonOn.SetActive(true);
+        }
+        if (Panel == isActive)
+        {
+            _buttonOff.SetActive(true);
+            _buttonOn.SetActive(false);
         }
     }
 }
