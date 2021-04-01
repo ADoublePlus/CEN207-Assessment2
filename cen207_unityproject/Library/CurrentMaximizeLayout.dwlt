@@ -27,12 +27,17 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 30
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     width: 1355
+=======
+    width: 1536
+>>>>>>> parent of 5b26cae (Test)
     height: 732
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
+<<<<<<< HEAD
   controlID: 157
 =======
     width: 1368
@@ -45,6 +50,9 @@ MonoBehaviour:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+  controlID: 9897
+>>>>>>> parent of 5b26cae (Test)
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -61,15 +69,21 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: Game
-    m_Image: {fileID: 4621777727084837110, guid: 0000000000000000d000000000000000, type: 0}
+    m_Image: {fileID: 257045534191678443, guid: 0000000000000000d000000000000000, type: 0}
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
     x: 311.5
     y: 78.5
     width: 628
+=======
+    x: 346
+    y: 72
+    width: 712
+>>>>>>> parent of 5b26cae (Test)
     height: 413
 =======
 =======
@@ -101,10 +115,10 @@ MonoBehaviour:
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
-    m_HBaseRangeMin: -960
-    m_HBaseRangeMax: 960
-    m_VBaseRangeMin: -540
-    m_VBaseRangeMax: 540
+    m_HBaseRangeMin: -768
+    m_HBaseRangeMax: 768
+    m_VBaseRangeMin: -432
+    m_VBaseRangeMax: 432
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -122,6 +136,7 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 21
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
       width: 628
@@ -139,12 +154,19 @@ MonoBehaviour:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+      width: 712
+      height: 392
+    m_Scale: {x: 0.4537037, y: 0.4537037}
+    m_Translation: {x: 356, y: 196}
+>>>>>>> parent of 5b26cae (Test)
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
       x: -960.00006
@@ -168,6 +190,15 @@ MonoBehaviour:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+      x: -784.6531
+      y: -432
+      width: 1569.3062
+      height: 864
+    m_MinimalGUI: 1
+  m_defaultScale: 0.4537037
+  m_LastWindowPixelSize: {x: 1780, y: 1032.5}
+>>>>>>> parent of 5b26cae (Test)
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
@@ -192,13 +223,18 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
     width: 935
+=======
+    width: 1060
+>>>>>>> parent of 5b26cae (Test)
     height: 732
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
+<<<<<<< HEAD
   controlID: 158
 =======
 =======
@@ -213,6 +249,9 @@ MonoBehaviour:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+  controlID: 9898
+>>>>>>> parent of 5b26cae (Test)
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -232,13 +271,18 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
     width: 935
+=======
+    width: 1060
+>>>>>>> parent of 5b26cae (Test)
     height: 434
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
+<<<<<<< HEAD
   controlID: 197
 =======
     width: 1092
@@ -256,6 +300,9 @@ MonoBehaviour:
   vertical: 0
   controlID: 5964
 >>>>>>> Stashed changes
+=======
+  controlID: 9878
+>>>>>>> parent of 5b26cae (Test)
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -273,9 +320,13 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
     width: 305
+=======
+    width: 346
+>>>>>>> parent of 5b26cae (Test)
     height: 434
 =======
     width: 201
@@ -308,14 +359,20 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: Hierarchy
-    m_Image: {fileID: -3734745235275155857, guid: 0000000000000000d000000000000000, type: 0}
+    m_Image: {fileID: -9000905672528348964, guid: 0000000000000000d000000000000000, type: 0}
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     x: 6.5
     y: 78.5
     width: 304
+=======
+    x: 0
+    y: 72
+    width: 345
+>>>>>>> parent of 5b26cae (Test)
     height: 413
 =======
     x: 0
@@ -329,6 +386,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
       m_ExpandedIDs: 28f9ffffe2faffff
@@ -338,6 +396,9 @@ MonoBehaviour:
 =======
       m_ExpandedIDs: 82f9ffff50fbffff443b0000623b0000903b00009a3b0000
 >>>>>>> Stashed changes
+=======
+      m_ExpandedIDs: 30b5f6ff66b6f6ffaabaf6ff82bbf6ff7ebdf6ffa6bdf6ffaabef6ffc0bef6ffa8c5f6ffdcc7f6ffccf4ffffe6f4ffff78f7ffffaef7fffff8f7ffff9af8ffff2cf9ffff86f9ffff52fbffffc23d0000b63f0000ba3f00000a400000204000002440000004460000804600009c460000a0460000ae460000b2460000104c00003e4c0000f04c00000c4d0000104d00001e4d0000224d0000084e0000564e0000604e0000784e00007e4e0000824e000002500000
+>>>>>>> parent of 5b26cae (Test)
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -376,11 +437,15 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
     x: 305
+=======
+    x: 346
+>>>>>>> parent of 5b26cae (Test)
     y: 0
-    width: 630
+    width: 714
     height: 434
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
@@ -428,7 +493,7 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: Scene
-    m_Image: {fileID: 8634526014445323508, guid: 0000000000000000d000000000000000, type: 0}
+    m_Image: {fileID: -131512000283675692, guid: 0000000000000000d000000000000000, type: 0}
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
@@ -709,10 +774,10 @@ MonoBehaviour:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
     y: 434
-    width: 935
+    width: 1060
     height: 298
-  m_MinSize: {x: 230, y: 250}
-  m_MaxSize: {x: 10000, y: 10000}
+  m_MinSize: {x: 231, y: 271}
+  m_MaxSize: {x: 10001, y: 10021}
   m_ActualView: {fileID: 10}
   m_Panes:
   - {fileID: 10}
@@ -763,10 +828,11 @@ MonoBehaviour:
   m_MaxSize: {x: 10000, y: 10000}
   m_TitleContent:
     m_Text: Project
-    m_Image: {fileID: -5179483145760003458, guid: 0000000000000000d000000000000000, type: 0}
+    m_Image: {fileID: -2032128904892744680, guid: 0000000000000000d000000000000000, type: 0}
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     x: 6.5
     y: 512.5
@@ -779,6 +845,11 @@ MonoBehaviour:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+    x: 0
+    y: 506
+    width: 1059
+>>>>>>> parent of 5b26cae (Test)
     height: 277
   m_ViewDataDictionary: {fileID: 0}
   m_SearchFilter:
@@ -794,19 +865,28 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
+<<<<<<< HEAD
     - Assets
+=======
+    - Assets/LoadingScene
+>>>>>>> parent of 5b26cae (Test)
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
+<<<<<<< HEAD
   - Assets
+=======
+  - Assets/LoadingScene
+>>>>>>> parent of 5b26cae (Test)
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\TTabe\Documents\UnityProjects\CEN207-Assessment2\cen207_unityproject
+  m_LastProjectPath: C:\Users\jmwon\Documents\GitHub\CEN207-Assessment2\cen207_unityproject
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
     m_SelectedIDs: 463b0000
@@ -822,6 +902,11 @@ MonoBehaviour:
     m_LastClickedID: 15094
     m_ExpandedIDs: 00000000f63a000000ca9a3b
 >>>>>>> Stashed changes
+=======
+    m_SelectedIDs: 903a0000
+    m_LastClickedID: 14992
+    m_ExpandedIDs: 00000000643a000000ca9a3b
+>>>>>>> parent of 5b26cae (Test)
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -849,6 +934,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
     m_ExpandedIDs: 00000000403b000000ca9a3b
@@ -858,6 +944,9 @@ MonoBehaviour:
 =======
     m_ExpandedIDs: 00000000f63a000000ca9a3b
 >>>>>>> Stashed changes
+=======
+    m_ExpandedIDs: 00000000643a000000ca9a3b
+>>>>>>> parent of 5b26cae (Test)
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -882,6 +971,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
     m_SelectedInstanceIDs: 643e0000
@@ -897,6 +987,11 @@ MonoBehaviour:
     m_LastClickedInstanceID: 15140
     m_HadKeyboardFocusLastEvent: 0
 >>>>>>> Stashed changes
+=======
+    m_SelectedInstanceIDs: 
+    m_LastClickedInstanceID: 0
+    m_HadKeyboardFocusLastEvent: 0
+>>>>>>> parent of 5b26cae (Test)
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -957,7 +1052,7 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: Console
-    m_Image: {fileID: -4950941429401207979, guid: 0000000000000000d000000000000000, type: 0}
+    m_Image: {fileID: -3303252850963283158, guid: 0000000000000000d000000000000000, type: 0}
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
@@ -1017,14 +1112,18 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
     x: 935
+=======
+    x: 1060
+>>>>>>> parent of 5b26cae (Test)
     y: 0
-    width: 420
+    width: 476
     height: 732
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -1074,15 +1173,21 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: Inspector
-    m_Image: {fileID: -440750813802333266, guid: 0000000000000000d000000000000000, type: 0}
+    m_Image: {fileID: 8356117983803934776, guid: 0000000000000000d000000000000000, type: 0}
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
     x: 941.5
     y: 78.5
     width: 419
+=======
+    x: 1060
+    y: 72
+    width: 475
+>>>>>>> parent of 5b26cae (Test)
     height: 711
 =======
 =======
@@ -1099,9 +1204,13 @@ MonoBehaviour:
     m_CachedPref: 160
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
   m_LastInspectedObjectInstanceID: 15972
+=======
+  m_LastInspectedObjectInstanceID: 15004
+>>>>>>> parent of 5b26cae (Test)
   m_LastVerticalScrollValue: 0
 =======
   m_LastInspectedObjectInstanceID: 15140
