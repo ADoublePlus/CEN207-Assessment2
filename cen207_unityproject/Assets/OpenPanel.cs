@@ -19,7 +19,7 @@ public class OpenPanel : MonoBehaviour
             _buttonOff.SetActive(false);
             _buttonOn.SetActive(true);
         }
-        else
+        if (Panel == isActive)
         {
             _buttonOff.SetActive(true);
             _buttonOn.SetActive(false);
