@@ -28,15 +28,20 @@ MonoBehaviour:
     x: 0
     y: 30
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     width: 1355
 =======
     width: 1536
 >>>>>>> parent of 5b26cae (Test)
+=======
+    width: 1355
+>>>>>>> parent of b0d1c80 (New code and scenes added)
     height: 732
-  m_MinSize: {x: 679, y: 492}
-  m_MaxSize: {x: 14002, y: 14042}
+  m_MinSize: {x: 678, y: 342}
+  m_MaxSize: {x: 12003, y: 8042}
   vertical: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
   controlID: 157
 =======
@@ -53,6 +58,9 @@ MonoBehaviour:
 =======
   controlID: 9897
 >>>>>>> parent of 5b26cae (Test)
+=======
+  controlID: 31344
+>>>>>>> parent of b0d1c80 (New code and scenes added)
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -69,10 +77,11 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: Game
-    m_Image: {fileID: 257045534191678443, guid: 0000000000000000d000000000000000, type: 0}
+    m_Image: {fileID: 4621777727084837110, guid: 0000000000000000d000000000000000, type: 0}
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -84,6 +93,11 @@ MonoBehaviour:
     y: 72
     width: 712
 >>>>>>> parent of 5b26cae (Test)
+=======
+    x: 306
+    y: 19
+    width: 628
+>>>>>>> parent of b0d1c80 (New code and scenes added)
     height: 413
 =======
 =======
@@ -100,7 +114,7 @@ MonoBehaviour:
   m_ShowGizmos: 0
   m_TargetDisplay: 0
   m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
-  m_TargetSize: {x: 3840, y: 2160}
+  m_TargetSize: {x: 640, y: 960}
   m_TextureFilterMode: 0
   m_TextureHideFlags: 61
   m_RenderIMGUI: 1
@@ -109,16 +123,16 @@ MonoBehaviour:
   m_VSyncEnabled: 0
   m_Gizmos: 0
   m_Stats: 0
-  m_SelectedSizes: 06000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_SelectedSizes: 08000000000000000000000000000000000000000000000000000000000000000000000000000000
   m_ZoomArea:
     m_HRangeLocked: 0
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
-    m_HBaseRangeMin: -768
-    m_HBaseRangeMax: 768
-    m_VBaseRangeMin: -432
-    m_VBaseRangeMax: 432
+    m_HBaseRangeMin: -160
+    m_HBaseRangeMax: 160
+    m_VBaseRangeMin: -240
+    m_VBaseRangeMax: 240
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -127,7 +141,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 1
+    m_EnableMouseInput: 0
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
@@ -136,6 +150,7 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 21
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -160,12 +175,19 @@ MonoBehaviour:
     m_Scale: {x: 0.4537037, y: 0.4537037}
     m_Translation: {x: 356, y: 196}
 >>>>>>> parent of 5b26cae (Test)
+=======
+      width: 628
+      height: 392
+    m_Scale: {x: 1.4359617, y: 1.4359616}
+    m_Translation: {x: 314, y: 196}
+>>>>>>> parent of b0d1c80 (New code and scenes added)
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -199,6 +221,15 @@ MonoBehaviour:
   m_defaultScale: 0.4537037
   m_LastWindowPixelSize: {x: 1780, y: 1032.5}
 >>>>>>> parent of 5b26cae (Test)
+=======
+      x: -218.66878
+      y: -136.4939
+      width: 437.33755
+      height: 272.9878
+    m_MinimalGUI: 1
+  m_defaultScale: 0.81666666
+  m_LastWindowPixelSize: {x: 1256, y: 826}
+>>>>>>> parent of b0d1c80 (New code and scenes added)
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
@@ -224,16 +255,21 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
     width: 935
 =======
     width: 1060
 >>>>>>> parent of 5b26cae (Test)
+=======
+    width: 935
+>>>>>>> parent of b0d1c80 (New code and scenes added)
     height: 732
-  m_MinSize: {x: 403, y: 492}
-  m_MaxSize: {x: 10001, y: 14042}
+  m_MinSize: {x: 402, y: 342}
+  m_MaxSize: {x: 8002, y: 8042}
   vertical: 1
+<<<<<<< HEAD
 <<<<<<< HEAD
   controlID: 158
 =======
@@ -252,6 +288,9 @@ MonoBehaviour:
 =======
   controlID: 9898
 >>>>>>> parent of 5b26cae (Test)
+=======
+  controlID: 31345
+>>>>>>> parent of b0d1c80 (New code and scenes added)
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -272,16 +311,21 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
     width: 935
 =======
     width: 1060
 >>>>>>> parent of 5b26cae (Test)
+=======
+    width: 935
+>>>>>>> parent of b0d1c80 (New code and scenes added)
     height: 434
-  m_MinSize: {x: 403, y: 221}
-  m_MaxSize: {x: 8003, y: 4021}
+  m_MinSize: {x: 402, y: 221}
+  m_MaxSize: {x: 8002, y: 4021}
   vertical: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
   controlID: 197
 =======
@@ -303,6 +347,9 @@ MonoBehaviour:
 =======
   controlID: 9878
 >>>>>>> parent of 5b26cae (Test)
+=======
+  controlID: 31346
+>>>>>>> parent of b0d1c80 (New code and scenes added)
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -321,6 +368,7 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
     width: 305
@@ -338,6 +386,12 @@ MonoBehaviour:
 >>>>>>> Stashed changes
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
+=======
+    width: 305
+    height: 434
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+>>>>>>> parent of b0d1c80 (New code and scenes added)
   m_ActualView: {fileID: 6}
   m_Panes:
   - {fileID: 6}
@@ -359,10 +413,11 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: Hierarchy
-    m_Image: {fileID: -9000905672528348964, guid: 0000000000000000d000000000000000, type: 0}
+    m_Image: {fileID: -3734745235275155857, guid: 0000000000000000d000000000000000, type: 0}
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< Updated upstream
     x: 6.5
@@ -373,6 +428,11 @@ MonoBehaviour:
     y: 72
     width: 345
 >>>>>>> parent of 5b26cae (Test)
+=======
+    x: 6.5
+    y: 78.5
+    width: 304
+>>>>>>> parent of b0d1c80 (New code and scenes added)
     height: 413
 =======
     x: 0
@@ -387,6 +447,7 @@ MonoBehaviour:
       m_SelectedIDs: 
       m_LastClickedID: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
       m_ExpandedIDs: 28f9ffffe2faffff
@@ -399,6 +460,9 @@ MonoBehaviour:
 =======
       m_ExpandedIDs: 30b5f6ff66b6f6ffaabaf6ff82bbf6ff7ebdf6ffa6bdf6ffaabef6ffc0bef6ffa8c5f6ffdcc7f6ffccf4ffffe6f4ffff78f7ffffaef7fffff8f7ffff9af8ffff2cf9ffff86f9ffff52fbffffc23d0000b63f0000ba3f00000a400000204000002440000004460000804600009c460000a0460000ae460000b2460000104c00003e4c0000f04c00000c4d0000104d00001e4d0000224d0000084e0000564e0000604e0000784e00007e4e0000824e000002500000
 >>>>>>> parent of 5b26cae (Test)
+=======
+      m_ExpandedIDs: 267bffff7091ffffa0a7ffff2ecbffff6cdbffffe2dcffff9cf7fffffafaffff383a0000623a0000e83a0000f83a0000123b0000163b0000203b00002a3b0000443b00004e3b00009c400000c6400000d0400000
+>>>>>>> parent of b0d1c80 (New code and scenes added)
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -438,14 +502,18 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
     x: 305
 =======
     x: 346
 >>>>>>> parent of 5b26cae (Test)
+=======
+    x: 305
+>>>>>>> parent of b0d1c80 (New code and scenes added)
     y: 0
-    width: 714
+    width: 630
     height: 434
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
@@ -493,15 +561,21 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: Scene
-    m_Image: {fileID: -131512000283675692, guid: 0000000000000000d000000000000000, type: 0}
+    m_Image: {fileID: 8634526014445323508, guid: 0000000000000000d000000000000000, type: 0}
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
     x: 346
     y: 72
     width: 711.6
+=======
+    x: 311.5
+    y: 78.5
+    width: 628
+>>>>>>> parent of b0d1c80 (New code and scenes added)
     height: 413
 =======
 =======
@@ -765,7 +839,7 @@ MonoBehaviour:
 >>>>>>> Stashed changes
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: ProjectBrowser
+  m_Name: ConsoleWindow
   m_EditorClassIdentifier: 
   m_Children: []
   m_Position:
@@ -774,16 +848,16 @@ MonoBehaviour:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
     y: 434
-    width: 1060
+    width: 935
     height: 298
-  m_MinSize: {x: 231, y: 271}
-  m_MaxSize: {x: 10001, y: 10021}
-  m_ActualView: {fileID: 10}
+  m_MinSize: {x: 101, y: 121}
+  m_MaxSize: {x: 4001, y: 4021}
+  m_ActualView: {fileID: 11}
   m_Panes:
   - {fileID: 10}
   - {fileID: 11}
-  m_Selected: 0
-  m_LastSelected: 1
+  m_Selected: 1
+  m_LastSelected: 0
 --- !u!114 &10
 =======
     y: 0
@@ -828,10 +902,11 @@ MonoBehaviour:
   m_MaxSize: {x: 10000, y: 10000}
   m_TitleContent:
     m_Text: Project
-    m_Image: {fileID: -2032128904892744680, guid: 0000000000000000d000000000000000, type: 0}
+    m_Image: {fileID: -5179483145760003458, guid: 0000000000000000d000000000000000, type: 0}
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< Updated upstream
     x: 6.5
@@ -850,6 +925,11 @@ MonoBehaviour:
     y: 506
     width: 1059
 >>>>>>> parent of 5b26cae (Test)
+=======
+    x: 6.5
+    y: 512.5
+    width: 934
+>>>>>>> parent of b0d1c80 (New code and scenes added)
     height: 277
   m_ViewDataDictionary: {fileID: 0}
   m_SearchFilter:
@@ -866,26 +946,35 @@ MonoBehaviour:
     m_SearchArea: 1
     m_Folders:
 <<<<<<< HEAD
+<<<<<<< HEAD
     - Assets
 =======
     - Assets/LoadingScene
 >>>>>>> parent of 5b26cae (Test)
+=======
+    - Assets
+>>>>>>> parent of b0d1c80 (New code and scenes added)
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
 <<<<<<< HEAD
+<<<<<<< HEAD
   - Assets
 =======
   - Assets/LoadingScene
 >>>>>>> parent of 5b26cae (Test)
+=======
+  - Assets
+>>>>>>> parent of b0d1c80 (New code and scenes added)
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\jmwon\Documents\GitHub\CEN207-Assessment2\cen207_unityproject
+  m_LastProjectPath: C:\Users\TTabe\Documents\UnityProjects\CEN207-Assessment2\cen207_unityproject
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -907,6 +996,11 @@ MonoBehaviour:
     m_LastClickedID: 14992
     m_ExpandedIDs: 00000000643a000000ca9a3b
 >>>>>>> parent of 5b26cae (Test)
+=======
+    m_SelectedIDs: 9c3a0000
+    m_LastClickedID: 15004
+    m_ExpandedIDs: 000000009c3a000000ca9a3bffffff7f
+>>>>>>> parent of b0d1c80 (New code and scenes added)
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -935,6 +1029,7 @@ MonoBehaviour:
     m_SelectedIDs: 
     m_LastClickedID: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
     m_ExpandedIDs: 00000000403b000000ca9a3b
@@ -947,6 +1042,9 @@ MonoBehaviour:
 =======
     m_ExpandedIDs: 00000000643a000000ca9a3b
 >>>>>>> parent of 5b26cae (Test)
+=======
+    m_ExpandedIDs: 000000009c3a000000ca9a3bffffff7f
+>>>>>>> parent of b0d1c80 (New code and scenes added)
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -990,8 +1088,12 @@ MonoBehaviour:
 =======
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
+<<<<<<< HEAD
     m_HadKeyboardFocusLastEvent: 0
 >>>>>>> parent of 5b26cae (Test)
+=======
+    m_HadKeyboardFocusLastEvent: 1
+>>>>>>> parent of b0d1c80 (New code and scenes added)
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -1052,13 +1154,13 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: Console
-    m_Image: {fileID: -3303252850963283158, guid: 0000000000000000d000000000000000, type: 0}
+    m_Image: {fileID: -4950941429401207979, guid: 0000000000000000d000000000000000, type: 0}
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 0
-    y: 506
-    width: 1059
+    x: 6.5
+    y: 512.5
+    width: 934
     height: 277
   m_ViewDataDictionary: {fileID: 0}
 <<<<<<< Updated upstream
@@ -1113,14 +1215,18 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
     x: 935
 =======
     x: 1060
 >>>>>>> parent of 5b26cae (Test)
+=======
+    x: 935
+>>>>>>> parent of b0d1c80 (New code and scenes added)
     y: 0
-    width: 476
+    width: 420
     height: 732
   m_MinSize: {x: 276, y: 71}
   m_MaxSize: {x: 4001, y: 4021}
@@ -1173,10 +1279,11 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: Inspector
-    m_Image: {fileID: 8356117983803934776, guid: 0000000000000000d000000000000000, type: 0}
+    m_Image: {fileID: -440750813802333266, guid: 0000000000000000d000000000000000, type: 0}
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -1188,6 +1295,11 @@ MonoBehaviour:
     y: 72
     width: 475
 >>>>>>> parent of 5b26cae (Test)
+=======
+    x: 941.5
+    y: 78.5
+    width: 419
+>>>>>>> parent of b0d1c80 (New code and scenes added)
     height: 711
 =======
 =======
@@ -1205,12 +1317,16 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
   m_LastInspectedObjectInstanceID: 15972
 =======
   m_LastInspectedObjectInstanceID: 15004
 >>>>>>> parent of 5b26cae (Test)
+=======
+  m_LastInspectedObjectInstanceID: -1
+>>>>>>> parent of b0d1c80 (New code and scenes added)
   m_LastVerticalScrollValue: 0
 =======
   m_LastInspectedObjectInstanceID: 15140

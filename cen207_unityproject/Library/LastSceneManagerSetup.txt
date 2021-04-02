@@ -1,4 +1,5 @@
 sceneSetups:
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 - path: Assets/LoadingScene/MainMenu.unity
@@ -8,6 +9,9 @@ sceneSetups:
 =======
 - path: Assets/Scenes/Python Test Scene.unity
 >>>>>>> Stashed changes
+=======
+- path: Assets/Scenes/App Scene.unity
+>>>>>>> parent of b0d1c80 (New code and scenes added)
   isLoaded: 1
   isActive: 1
   isSubScene: 0
