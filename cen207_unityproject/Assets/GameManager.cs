@@ -47,39 +47,46 @@ public class GameManager : MonoBehaviour
                     SendMessageToChat("Answer: I'm sorry but I can't help you if you are rude to me. Feel free to me ask another question, but without the profanity, please.", Message.MessageType.userMessage);
                     _questionOptions = false;
                 }
+                // Sizing Guide
                 else if (chatBox.text.Contains("size") || chatBox.text.Contains("fit"))
                 {
                     SendMessageToChat("Answer: Would you like to see the OneStop sizing guide?", Message.MessageType.userMessage);
                     _questionOptions = true;
                     OnUserInput?.Invoke(this, System.EventArgs.Empty);
                 }
+                // Colour Check - Product Specifications
                 else if (chatBox.text.Contains("colo")) // American 'Color' and Australian/British 'Colour'
                 {
                     SendMessageToChat("Answer: The range of colours are black, blue, green, red, orange, yellow, pink and purple.", Message.MessageType.userMessage);
                     _questionOptions = false;
                 }
+                // Material Check - Product Specifications
                 else if (chatBox.text.Contains("material") || chatBox.text.Contains("made"))
                 {
                     SendMessageToChat("Answer: This product is made from 100% Cotton. Is there anything else I can help you with?", Message.MessageType.userMessage);
                     _questionOptions = false;
                 }
+                // Product Review / Seller Review - Potential Ban System
                 else if (chatBox.text.Contains("trust") || chatBox.text.Contains("rating"))
                 {
                     SendMessageToChat("Answer: This seller has a OneStop Rating of 4.7/5. Would you like to submit a review?", Message.MessageType.userMessage);
                     _questionOptions = true;
                     OnUserInput?.Invoke(this, System.EventArgs.Empty);
                 }
+                // Delivery Tracking System
                 else if ((chatBox.text.Contains("where") && chatBox.text.Contains("my")) || chatBox.text.Contains("when") || chatBox.text.Contains("delivery") || chatBox.text.Contains("track"))
                 {
                     SendMessageToChat("Answer: OneStop Delivery Tracking is only available for OneStop account holders. Please contact the seller directly or would you like to sign up for free?", Message.MessageType.userMessage);
                     _questionOptions = true;
                     OnUserInput?.Invoke(this, System.EventArgs.Empty);
                 }
+                // Shopping Cart / Purchase Screen - Guest Checkout / Member Checkout
                 else if (chatBox.text.Contains("pay") || chatBox.text.Contains("check") || chatBox.text.Contains("buy"))
                 {
                     SendMessageToChat("Answer: Receive 10% off your entire cart if you sign up today for free or you can use OneStop's quick and easy guest checkout.", Message.MessageType.userMessage);
                     _questionOptions = false;
                 }
+                // Invalid Question / Input
                 else
                 {
                     SendMessageToChat("Answer: Sorry, I'm a dumb sloth and I couldn't understand your question. Please try again.", Message.MessageType.userMessage);
