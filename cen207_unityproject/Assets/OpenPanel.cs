@@ -2,15 +2,11 @@ using UnityEngine;
 
 public class OpenPanel : MonoBehaviour
 {
+    public GameManager _gameManager;
     public GameObject Panel;
 
-    public GameObject _buttonOff;
-    public GameObject _buttonOn;
-
-    public GameObject yesButton;
-    public GameObject noButton;
-
-    public GameObject textInput;
+    public GameObject _togglePanelOff;
+    public GameObject _togglePanelOn;
 
     public void PanelOpener()
     {
@@ -22,23 +18,18 @@ public class OpenPanel : MonoBehaviour
         }
         if (Panel != isActive)
         {
-            _buttonOff.SetActive(false);
-            _buttonOn.SetActive(true);
-
-            yesButton.SetActive(true);
-            noButton.SetActive(true);
-
-            textInput.SetActive(true);
+            _togglePanelOff.SetActive(false);
+            _togglePanelOn.SetActive(true);
         }
         else
         {
-            _buttonOff.SetActive(true);
-            _buttonOn.SetActive(false);
+            _togglePanelOff.SetActive(true);
+            _togglePanelOn.SetActive(false);
 
-            yesButton.SetActive(false);
-            noButton.SetActive(false);
+            //yesButton.SetActive(false);
+            //noButton.SetActive(false);
 
-            textInput.SetActive(false);
+            //textInput.SetActive(false);
         }
     }
 }
