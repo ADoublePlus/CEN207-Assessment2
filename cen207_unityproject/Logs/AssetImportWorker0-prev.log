@@ -16,13 +16,17 @@ C:/Users/jmwon/Documents/GitHub/CEN207-Assessment2/cen207_unityproject
 Logs/AssetImportWorker0.log
 -srvPort
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 83961d2 (Added PythonTestScene. Python for Unity test status: Failed)
 63696
 Successfully changed project path to: C:/Users/jmwon/Documents/GitHub/CEN207-Assessment2/cen207_unityproject
 C:/Users/jmwon/Documents/GitHub/CEN207-Assessment2/cen207_unityproject
 Using Asset Import Pipeline V2.
 Refreshing native plugins compatible for Editor in 26.86 ms, found 0 plugins.
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> Stashed changes
@@ -42,6 +46,8 @@ C:/Users/jmwon/Documents/GitHub/CEN207-Assessment2/cen207_unityproject
 Using Asset Import Pipeline V2.
 Refreshing native plugins compatible for Editor in 22.16 ms, found 0 plugins.
 >>>>>>> parent of 5b26cae (Test)
+=======
+>>>>>>> parent of 83961d2 (Added PythonTestScene. Python for Unity test status: Failed)
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.1f1 (77a89f25062f)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Resources/UnitySubsystems
@@ -54,7 +60,6 @@ Direct3D:
     VRAM:     4021 MB
     Driver:   25.21.14.1972
 Initialize mono
-<<<<<<< Updated upstream
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/MonoBleedingEdge/etc'
@@ -68,6 +73,7 @@ Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 <<<<<<< HEAD
 Refreshing native plugins compatible for Editor in 33.32 ms, found 0 plugins.
+<<<<<<< HEAD
 =======
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
@@ -88,14 +94,19 @@ Refreshing native plugins compatible for Editor in 39.28 ms, found 0 plugins.
 =======
 Refreshing native plugins compatible for Editor in 21.16 ms, found 0 plugins.
 >>>>>>> parent of 5b26cae (Test)
+=======
+>>>>>>> parent of 83961d2 (Added PythonTestScene. Python for Unity test status: Failed)
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 83961d2 (Added PythonTestScene. Python for Unity test status: Failed)
 - Completed reload, in  2.443 seconds
 =======
 - Completed reload, in  2.146 seconds
@@ -108,33 +119,11 @@ Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 <<<<<<< HEAD
 Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
-=======
-- Completed reload, in  5.090 seconds
-Platform modules already initialized, skipping
-Registering precompiled user dll's ...
-Registered in 0.001406 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
->>>>>>> Stashed changes
-=======
-- Completed reload, in  5.090 seconds
-Platform modules already initialized, skipping
-Registering precompiled user dll's ...
-Registered in 0.001406 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
->>>>>>> Stashed changes
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 - Completed reload, in  0.825 seconds
 Platform modules already initialized, skipping
 ========================================================================
@@ -1138,6 +1127,7 @@ System memory in use after: 57.1 MB.
 <<<<<<< HEAD
 Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 1690.
 Total: 5.780500 ms (FindLiveObjects: 0.384300 ms CreateObjectMapping: 0.114300 ms MarkObjects: 4.274500 ms  DeleteObjects: 1.004100 ms)
+<<<<<<< HEAD
 =======
 - Completed reload, in  1.501 seconds
 Platform modules already initialized, skipping
@@ -1185,5 +1175,7 @@ Start importing Assets/Scenes/App Scene.unity using Guid(74a777cca3f364349bbccdb
 Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1563.
 Total: 3.678300 ms (FindLiveObjects: 0.254100 ms CreateObjectMapping: 0.062000 ms MarkObjects: 3.241900 ms  DeleteObjects: 0.118100 ms)
 >>>>>>> parent of 5b26cae (Test)
+=======
+>>>>>>> parent of 83961d2 (Added PythonTestScene. Python for Unity test status: Failed)
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file

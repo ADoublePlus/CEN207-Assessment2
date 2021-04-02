@@ -1,13 +1,5 @@
 sceneSetups:
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 - path: Assets/LoadingScene/MainMenu.unity
-=======
-- path: Assets/Scenes/Python Test Scene.unity
->>>>>>> Stashed changes
-=======
-- path: Assets/Scenes/Python Test Scene.unity
->>>>>>> Stashed changes
   isLoaded: 1
   isActive: 1
   isSubScene: 0

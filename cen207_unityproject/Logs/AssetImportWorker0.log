@@ -16,13 +16,17 @@ C:/Users/jmwon/Documents/GitHub/CEN207-Assessment2/cen207_unityproject
 Logs/AssetImportWorker0.log
 -srvPort
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 83961d2 (Added PythonTestScene. Python for Unity test status: Failed)
 64595
 Successfully changed project path to: C:/Users/TTabe/Documents/UnityProjects/CEN207-Assessment2/cen207_unityproject
 C:/Users/TTabe/Documents/UnityProjects/CEN207-Assessment2/cen207_unityproject
 Using Asset Import Pipeline V2.
 Refreshing native plugins compatible for Editor in 83.84 ms, found 0 plugins.
+<<<<<<< HEAD
 =======
 50157
 Successfully changed project path to: C:/Users/TTabe/Documents/UnityProjects/CEN207-Assessment2/cen207_unityproject
@@ -44,6 +48,8 @@ C:/Users/jmwon/Documents/GitHub/CEN207-Assessment2/cen207_unityproject
 Using Asset Import Pipeline V2.
 Refreshing native plugins compatible for Editor in 26.86 ms, found 0 plugins.
 >>>>>>> parent of 5b26cae (Test)
+=======
+>>>>>>> parent of 83961d2 (Added PythonTestScene. Python for Unity test status: Failed)
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.1f1 (77a89f25062f)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Resources/UnitySubsystems
@@ -60,25 +66,16 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/MonoBleedingEdge/etc'
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56184
-=======
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56752
->>>>>>> Stashed changes
-=======
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56752
->>>>>>> Stashed changes
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 Registered in 0.003729 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 35.29 ms, found 0 plugins.
+<<<<<<< HEAD
 =======
 Registered in 0.002933 seconds.
 Native extension for WindowsStandalone target not found
@@ -105,14 +102,19 @@ Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 33.32 ms, found 0 plugins.
 >>>>>>> parent of 5b26cae (Test)
+=======
+>>>>>>> parent of 83961d2 (Added PythonTestScene. Python for Unity test status: Failed)
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 83961d2 (Added PythonTestScene. Python for Unity test status: Failed)
 - Completed reload, in  2.798 seconds
 =======
 - Completed reload, in  2.443 seconds
@@ -125,6 +127,7 @@ Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 <<<<<<< HEAD
 Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+<<<<<<< HEAD
 =======
 - Completed reload, in  2.428 seconds
 Platform modules already initialized, skipping
@@ -148,20 +151,26 @@ Refreshing native plugins compatible for Editor in 0.47 ms, found 0 plugins.
 =======
 Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
 >>>>>>> parent of 5b26cae (Test)
+=======
+>>>>>>> parent of 83961d2 (Added PythonTestScene. Python for Unity test status: Failed)
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 83961d2 (Added PythonTestScene. Python for Unity test status: Failed)
 - Completed reload, in  1.220 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
 Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+<<<<<<< HEAD
 =======
 - Completed reload, in  1.076 seconds
 Platform modules already initialized, skipping
@@ -186,6 +195,8 @@ Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
 Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
 >>>>>>> parent of 5b26cae (Test)
+=======
+>>>>>>> parent of 83961d2 (Added PythonTestScene. Python for Unity test status: Failed)
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1142 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 57.7 MB.
@@ -193,8 +204,6 @@ System memory in use after: 57.7 MB.
 
 <<<<<<< HEAD
 Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1580.
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 Total: 2.793100 ms (FindLiveObjects: 0.422800 ms CreateObjectMapping: 0.125700 ms MarkObjects: 2.093800 ms  DeleteObjects: 0.149700 ms)
 =======
 Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1585.
@@ -313,6 +322,7 @@ Received Import Request.
 <<<<<<< HEAD
 Start importing Assets/LoadingScene/Loader.cs using Guid(f446974cdbfd0a94d86f992f10e3f3b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1444eb54cccde01ba5bc2591b283029') in 0.004893 seconds
   Import took 0.009284 seconds .
+<<<<<<< HEAD
 =======
 Total: 2.556200 ms (FindLiveObjects: 0.484800 ms CreateObjectMapping: 0.105500 ms MarkObjects: 1.866200 ms  DeleteObjects: 0.098300 ms)
 
@@ -511,18 +521,24 @@ Received Import Request.
 Start importing Assets/_/Stuff/CodeMonkey/Utils using Guid(ba5447bae748f4b448074853364bfbd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '093a2395b03d11788ea6a827a1ea72b5') in 0.020368 seconds
   Import took 0.022721 seconds .
 >>>>>>> parent of 5b26cae (Test)
+=======
+>>>>>>> parent of 83961d2 (Added PythonTestScene. Python for Unity test status: Failed)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 83961d2 (Added PythonTestScene. Python for Unity test status: Failed)
 Registered in 0.002359 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> Stashed changes
@@ -542,14 +558,19 @@ Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
 >>>>>>> parent of 5b26cae (Test)
+=======
+>>>>>>> parent of 83961d2 (Added PythonTestScene. Python for Unity test status: Failed)
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 83961d2 (Added PythonTestScene. Python for Unity test status: Failed)
 - Completed reload, in  1.278 seconds
 =======
 - Completed reload, in  0.809 seconds
@@ -820,6 +841,7 @@ Received Import Request.
   artifactKey: Guid(551556e15a581ec4ebfae12279fb3b44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Sprites/Sloth no tree.png using Guid(551556e15a581ec4ebfae12279fb3b44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0a2bb0cdf0bf40e828bdd61348d210a') in 0.095076 seconds
   Import took 0.101019 seconds .
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> Stashed changes
@@ -2010,5 +2032,7 @@ System memory in use after: 61.8 MB.
 Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 1690.
 Total: 5.780500 ms (FindLiveObjects: 0.384300 ms CreateObjectMapping: 0.114300 ms MarkObjects: 4.274500 ms  DeleteObjects: 1.004100 ms)
 >>>>>>> parent of 5b26cae (Test)
+=======
+>>>>>>> parent of 83961d2 (Added PythonTestScene. Python for Unity test status: Failed)
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file

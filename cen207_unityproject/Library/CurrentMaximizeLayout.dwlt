@@ -14,21 +14,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Children:
   - {fileID: 3}
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
   - {fileID: 12}
-=======
-  - {fileID: 16}
->>>>>>> Stashed changes
-=======
-  - {fileID: 16}
->>>>>>> Stashed changes
   m_Position:
     serializedVersion: 2
     x: 0
     y: 30
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 83961d2 (Added PythonTestScene. Python for Unity test status: Failed)
     width: 1355
 =======
     width: 1536
@@ -39,6 +34,7 @@ MonoBehaviour:
   vertical: 0
 <<<<<<< HEAD
   controlID: 157
+<<<<<<< HEAD
 =======
     width: 1368
     height: 790
@@ -53,6 +49,8 @@ MonoBehaviour:
 =======
   controlID: 9897
 >>>>>>> parent of 5b26cae (Test)
+=======
+>>>>>>> parent of 83961d2 (Added PythonTestScene. Python for Unity test status: Failed)
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -74,8 +72,11 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 83961d2 (Added PythonTestScene. Python for Unity test status: Failed)
     x: 311.5
     y: 78.5
     width: 628
@@ -85,14 +86,6 @@ MonoBehaviour:
     width: 712
 >>>>>>> parent of 5b26cae (Test)
     height: 413
-=======
-=======
->>>>>>> Stashed changes
-    x: 634
-    y: 564
-    width: 456
-    height: 277
->>>>>>> Stashed changes
   m_ViewDataDictionary: {fileID: 0}
   m_SerializedViewNames: []
   m_SerializedViewValues: []
@@ -137,12 +130,16 @@ MonoBehaviour:
       x: 0
       y: 21
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 83961d2 (Added PythonTestScene. Python for Unity test status: Failed)
       width: 628
       height: 392
     m_Scale: {x: 0.32708332, y: 0.32708332}
     m_Translation: {x: 314, y: 196.00002}
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> Stashed changes
@@ -160,6 +157,8 @@ MonoBehaviour:
     m_Scale: {x: 0.4537037, y: 0.4537037}
     m_Translation: {x: 356, y: 196}
 >>>>>>> parent of 5b26cae (Test)
+=======
+>>>>>>> parent of 83961d2 (Added PythonTestScene. Python for Unity test status: Failed)
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
@@ -167,8 +166,11 @@ MonoBehaviour:
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 83961d2 (Added PythonTestScene. Python for Unity test status: Failed)
       x: -960.00006
       y: -599.2357
       width: 1920.0001
@@ -176,6 +178,7 @@ MonoBehaviour:
     m_MinimalGUI: 1
   m_defaultScale: 0.32708332
   m_LastWindowPixelSize: {x: 1256, y: 826}
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> Stashed changes
@@ -199,6 +202,8 @@ MonoBehaviour:
   m_defaultScale: 0.4537037
   m_LastWindowPixelSize: {x: 1780, y: 1032.5}
 >>>>>>> parent of 5b26cae (Test)
+=======
+>>>>>>> parent of 83961d2 (Added PythonTestScene. Python for Unity test status: Failed)
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
@@ -218,14 +223,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Children:
   - {fileID: 4}
-  - {fileID: 11}
+  - {fileID: 9}
   m_Position:
     serializedVersion: 2
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 83961d2 (Added PythonTestScene. Python for Unity test status: Failed)
     width: 935
 =======
     width: 1060
@@ -236,6 +244,7 @@ MonoBehaviour:
   vertical: 1
 <<<<<<< HEAD
   controlID: 158
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> Stashed changes
@@ -252,6 +261,8 @@ MonoBehaviour:
 =======
   controlID: 9898
 >>>>>>> parent of 5b26cae (Test)
+=======
+>>>>>>> parent of 83961d2 (Added PythonTestScene. Python for Unity test status: Failed)
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -272,8 +283,11 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 83961d2 (Added PythonTestScene. Python for Unity test status: Failed)
     width: 935
 =======
     width: 1060
@@ -284,6 +298,7 @@ MonoBehaviour:
   vertical: 0
 <<<<<<< HEAD
   controlID: 197
+<<<<<<< HEAD
 =======
     width: 1092
     height: 492
@@ -303,6 +318,8 @@ MonoBehaviour:
 =======
   controlID: 9878
 >>>>>>> parent of 5b26cae (Test)
+=======
+>>>>>>> parent of 83961d2 (Added PythonTestScene. Python for Unity test status: Failed)
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -321,21 +338,16 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 83961d2 (Added PythonTestScene. Python for Unity test status: Failed)
     width: 305
 =======
     width: 346
 >>>>>>> parent of 5b26cae (Test)
     height: 434
-=======
-    width: 201
-    height: 492
->>>>>>> Stashed changes
-=======
-    width: 201
-    height: 492
->>>>>>> Stashed changes
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 6}
@@ -364,7 +376,10 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 83961d2 (Added PythonTestScene. Python for Unity test status: Failed)
     x: 6.5
     y: 78.5
     width: 304
@@ -374,18 +389,13 @@ MonoBehaviour:
     width: 345
 >>>>>>> parent of 5b26cae (Test)
     height: 413
-=======
-    x: 0
-    y: 72
-    width: 200
-    height: 471
->>>>>>> Stashed changes
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -399,6 +409,9 @@ MonoBehaviour:
 =======
       m_ExpandedIDs: 30b5f6ff66b6f6ffaabaf6ff82bbf6ff7ebdf6ffa6bdf6ffaabef6ffc0bef6ffa8c5f6ffdcc7f6ffccf4ffffe6f4ffff78f7ffffaef7fffff8f7ffff9af8ffff2cf9ffff86f9ffff52fbffffc23d0000b63f0000ba3f00000a400000204000002440000004460000804600009c460000a0460000ae460000b2460000104c00003e4c0000f04c00000c4d0000104d00001e4d0000224d0000084e0000564e0000604e0000784e00007e4e0000824e000002500000
 >>>>>>> parent of 5b26cae (Test)
+=======
+      m_ExpandedIDs: 28f9ffffe2faffff
+>>>>>>> parent of 83961d2 (Added PythonTestScene. Python for Unity test status: Failed)
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -438,8 +451,11 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 83961d2 (Added PythonTestScene. Python for Unity test status: Failed)
     x: 305
 =======
     x: 346
@@ -455,28 +471,6 @@ MonoBehaviour:
   - {fileID: 2}
   m_Selected: 1
   m_LastSelected: 0
-=======
-    x: 201
-    y: 0
-=======
-    x: 201
-    y: 0
->>>>>>> Stashed changes
-    width: 891
-    height: 492
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_ActualView: {fileID: 8}
-  m_Panes:
-  - {fileID: 8}
-  - {fileID: 9}
-  - {fileID: 10}
-  m_Selected: 0
-  m_LastSelected: 2
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -497,20 +491,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
     x: 346
     y: 72
     width: 711.6
     height: 413
-=======
-=======
->>>>>>> Stashed changes
-    x: 201
-    y: 72
-    width: 889
-    height: 471
->>>>>>> Stashed changes
   m_ViewDataDictionary: {fileID: 0}
   m_ShowContextualTools: 0
   m_WindowGUID: cc27987af1a868c49b0894db9c0f5429
@@ -523,21 +507,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
     m_Target: {x: 573.9929, y: 903.67645, z: -111.19361}
     speed: 2
     m_Value: {x: 573.9929, y: 903.67645, z: -111.19361}
-=======
-    m_Target: {x: 1695.636, y: 1214.3759, z: -1654.562}
-    speed: 2
-    m_Value: {x: 1695.636, y: 1214.3759, z: -1654.562}
->>>>>>> Stashed changes
-=======
-    m_Target: {x: 1695.636, y: 1214.3759, z: -1654.562}
-    speed: 2
-    m_Value: {x: 1695.636, y: 1214.3759, z: -1654.562}
->>>>>>> Stashed changes
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -588,21 +560,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
     m_Target: 104.42341
     speed: 2
     m_Value: 104.42341
-=======
-    m_Target: 2114.941
-    speed: 2
-    m_Value: 2114.941
->>>>>>> Stashed changes
-=======
-    m_Target: 2114.941
-    speed: 2
-    m_Value: 2114.941
->>>>>>> Stashed changes
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -635,134 +595,6 @@ MonoBehaviour:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
-<<<<<<< Updated upstream
-=======
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 13953, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_MinSize: {x: 800, y: 250}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_TitleContent:
-    m_Text: Package Manager
-    m_Image: {fileID: 5076950121296946556, guid: 0000000000000000d000000000000000, type: 0}
-    m_Tooltip: 
-  m_Pos:
-    serializedVersion: 2
-    x: 201
-    y: 72
-    width: 889
-    height: 471
-  m_ViewDataDictionary: {fileID: 0}
---- !u!114 &10
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 12111, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_MinSize: {x: 455, y: 354}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_TitleContent:
-    m_Text: Asset Store
-    m_Image: {fileID: -7444545952099596278, guid: 0000000000000000d000000000000000, type: 0}
-    m_Tooltip: 
-  m_Pos:
-    serializedVersion: 2
-    x: 201
-    y: 72
-    width: 889
-    height: 471
-  m_ViewDataDictionary: {fileID: 0}
---- !u!114 &11
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 13953, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_MinSize: {x: 800, y: 250}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_TitleContent:
-    m_Text: Package Manager
-    m_Image: {fileID: 5076950121296946556, guid: 0000000000000000d000000000000000, type: 0}
-    m_Tooltip: 
-  m_Pos:
-    serializedVersion: 2
-    x: 201
-    y: 72
-    width: 889
-    height: 471
-  m_ViewDataDictionary: {fileID: 0}
---- !u!114 &10
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 12111, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_MinSize: {x: 455, y: 354}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_TitleContent:
-    m_Text: Asset Store
-    m_Image: {fileID: -7444545952099596278, guid: 0000000000000000d000000000000000, type: 0}
-    m_Tooltip: 
-  m_Pos:
-    serializedVersion: 2
-    x: 201
-    y: 72
-    width: 889
-    height: 471
-  m_ViewDataDictionary: {fileID: 0}
---- !u!114 &11
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Children:
-  - {fileID: 12}
-  - {fileID: 15}
-  m_Position:
-    serializedVersion: 2
-    x: 0
-    y: 492
-    width: 1092
-    height: 298
-  m_MinSize: {x: 432, y: 250}
-  m_MaxSize: {x: 14002, y: 10000}
-  vertical: 0
-  controlID: 6016
---- !u!114 &12
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
->>>>>>> Stashed changes
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: ProjectBrowser
@@ -771,8 +603,6 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
     y: 434
     width: 1060
     height: 298
@@ -785,34 +615,6 @@ MonoBehaviour:
   m_Selected: 0
   m_LastSelected: 1
 --- !u!114 &10
-=======
-    y: 0
-    width: 634
-    height: 298
-  m_MinSize: {x: 230, y: 250}
-  m_MaxSize: {x: 10000, y: 10000}
-  m_ActualView: {fileID: 13}
-  m_Panes:
-  - {fileID: 13}
-  - {fileID: 14}
-  m_Selected: 0
-  m_LastSelected: 1
---- !u!114 &13
->>>>>>> Stashed changes
-=======
-    y: 0
-    width: 634
-    height: 298
-  m_MinSize: {x: 230, y: 250}
-  m_MaxSize: {x: 10000, y: 10000}
-  m_ActualView: {fileID: 13}
-  m_Panes:
-  - {fileID: 13}
-  - {fileID: 14}
-  m_Selected: 0
-  m_LastSelected: 1
---- !u!114 &13
->>>>>>> Stashed changes
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -833,6 +635,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     x: 6.5
     y: 512.5
@@ -850,6 +653,11 @@ MonoBehaviour:
     y: 506
     width: 1059
 >>>>>>> parent of 5b26cae (Test)
+=======
+    x: 6.5
+    y: 512.5
+    width: 934
+>>>>>>> parent of 83961d2 (Added PythonTestScene. Python for Unity test status: Failed)
     height: 277
   m_ViewDataDictionary: {fileID: 0}
   m_SearchFilter:
@@ -866,26 +674,35 @@ MonoBehaviour:
     m_SearchArea: 1
     m_Folders:
 <<<<<<< HEAD
+<<<<<<< HEAD
     - Assets
 =======
     - Assets/LoadingScene
 >>>>>>> parent of 5b26cae (Test)
+=======
+    - Assets/Scenes
+>>>>>>> parent of 83961d2 (Added PythonTestScene. Python for Unity test status: Failed)
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
 <<<<<<< HEAD
+<<<<<<< HEAD
   - Assets
 =======
   - Assets/LoadingScene
 >>>>>>> parent of 5b26cae (Test)
+=======
+  - Assets/Scenes
+>>>>>>> parent of 83961d2 (Added PythonTestScene. Python for Unity test status: Failed)
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\jmwon\Documents\GitHub\CEN207-Assessment2\cen207_unityproject
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -907,6 +724,11 @@ MonoBehaviour:
     m_LastClickedID: 14992
     m_ExpandedIDs: 00000000643a000000ca9a3b
 >>>>>>> parent of 5b26cae (Test)
+=======
+    m_SelectedIDs: 463b0000
+    m_LastClickedID: 15174
+    m_ExpandedIDs: 00000000403b000000ca9a3b
+>>>>>>> parent of 83961d2 (Added PythonTestScene. Python for Unity test status: Failed)
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -935,6 +757,7 @@ MonoBehaviour:
     m_SelectedIDs: 
     m_LastClickedID: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
     m_ExpandedIDs: 00000000403b000000ca9a3b
@@ -947,6 +770,9 @@ MonoBehaviour:
 =======
     m_ExpandedIDs: 00000000643a000000ca9a3b
 >>>>>>> parent of 5b26cae (Test)
+=======
+    m_ExpandedIDs: 00000000403b000000ca9a3b
+>>>>>>> parent of 83961d2 (Added PythonTestScene. Python for Unity test status: Failed)
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -972,6 +798,7 @@ MonoBehaviour:
       m_ResourceFile: 
   m_ListAreaState:
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
     m_SelectedInstanceIDs: 643e0000
@@ -992,6 +819,11 @@ MonoBehaviour:
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 0
 >>>>>>> parent of 5b26cae (Test)
+=======
+    m_SelectedInstanceIDs: 643e0000
+    m_LastClickedInstanceID: 15972
+    m_HadKeyboardFocusLastEvent: 1
+>>>>>>> parent of 83961d2 (Added PythonTestScene. Python for Unity test status: Failed)
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -1008,15 +840,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
       m_ClientGUIView: {fileID: 9}
-=======
-      m_ClientGUIView: {fileID: 12}
->>>>>>> Stashed changes
-=======
-      m_ClientGUIView: {fileID: 12}
->>>>>>> Stashed changes
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
@@ -1028,15 +852,7 @@ MonoBehaviour:
     m_GridSize: 64
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 207
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 --- !u!114 &11
-=======
---- !u!114 &14
->>>>>>> Stashed changes
-=======
---- !u!114 &14
->>>>>>> Stashed changes
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1061,43 +877,7 @@ MonoBehaviour:
     width: 1059
     height: 277
   m_ViewDataDictionary: {fileID: 0}
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 --- !u!114 &12
-=======
-=======
->>>>>>> Stashed changes
---- !u!114 &15
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: GameView
-  m_EditorClassIdentifier: 
-  m_Children: []
-  m_Position:
-    serializedVersion: 2
-    x: 634
-    y: 0
-    width: 458
-    height: 298
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
-  m_ActualView: {fileID: 2}
-  m_Panes:
-  - {fileID: 2}
-  m_Selected: 0
-  m_LastSelected: 0
---- !u!114 &16
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1113,8 +893,11 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 83961d2 (Added PythonTestScene. Python for Unity test status: Failed)
     x: 935
 =======
     x: 1060
@@ -1130,34 +913,6 @@ MonoBehaviour:
   m_Selected: 0
   m_LastSelected: 0
 --- !u!114 &13
-=======
-    x: 1092
-    y: 0
-    width: 276
-    height: 790
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
-  m_ActualView: {fileID: 17}
-  m_Panes:
-  - {fileID: 17}
-  m_Selected: 0
-  m_LastSelected: 0
---- !u!114 &17
->>>>>>> Stashed changes
-=======
-    x: 1092
-    y: 0
-    width: 276
-    height: 790
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
-  m_ActualView: {fileID: 17}
-  m_Panes:
-  - {fileID: 17}
-  m_Selected: 0
-  m_LastSelected: 0
---- !u!114 &17
->>>>>>> Stashed changes
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1178,8 +933,11 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 83961d2 (Added PythonTestScene. Python for Unity test status: Failed)
     x: 941.5
     y: 78.5
     width: 419
@@ -1189,14 +947,6 @@ MonoBehaviour:
     width: 475
 >>>>>>> parent of 5b26cae (Test)
     height: 711
-=======
-=======
->>>>>>> Stashed changes
-    x: 1092
-    y: 72
-    width: 275
-    height: 769
->>>>>>> Stashed changes
   m_ViewDataDictionary: {fileID: 0}
   m_ObjectsLockedBeforeSerialization: []
   m_InstanceIDsLockedBeforeSerialization: 
@@ -1205,21 +955,16 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 83961d2 (Added PythonTestScene. Python for Unity test status: Failed)
   m_LastInspectedObjectInstanceID: 15972
 =======
   m_LastInspectedObjectInstanceID: 15004
 >>>>>>> parent of 5b26cae (Test)
   m_LastVerticalScrollValue: 0
-=======
-  m_LastInspectedObjectInstanceID: 15140
-  m_LastVerticalScrollValue: 20
->>>>>>> Stashed changes
-=======
-  m_LastInspectedObjectInstanceID: 15140
-  m_LastVerticalScrollValue: 20
->>>>>>> Stashed changes
   m_GlobalObjectId: 
   m_LockTracker:
     m_IsLocked: 0
