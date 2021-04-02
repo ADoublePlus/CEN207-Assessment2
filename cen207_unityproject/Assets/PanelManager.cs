@@ -34,7 +34,7 @@ public class PanelManager : MonoBehaviour
     private void GameManager_OnUserInput(object sender, System.EventArgs e)
     {
         Debug.Log("GameManager_OnUserInput");
-        QuestionOptions = true;
+        QuestionOptions = GameManager.GetInstance().GetQuestionOptions();
         SetTextOrChoice();
     }
 }
