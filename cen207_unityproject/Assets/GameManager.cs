@@ -1,10 +1,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
     static GameManager instance;
+
     public static GameManager GetInstance()
     {
         return instance;
@@ -25,12 +27,20 @@ public class GameManager : MonoBehaviour
 
     [SerializeField]
     List<Message> messageList = new List<Message>();
+
+    public Button YB, NB;
+
     private bool _questionOptions;
 
     void Awake()
     {
         // Set player instance on Awake()
         instance = this;
+    }
+
+    void Start()
+    {
+       
     }
 
     void Update()
@@ -53,6 +63,9 @@ public class GameManager : MonoBehaviour
                     SendMessageToChat("Answer: Would you like to see the OneStop sizing guide?", Message.MessageType.userMessage);
                     _questionOptions = true;
                     OnUserInput?.Invoke(this, System.EventArgs.Empty);
+
+                    YB.onClick.AddListener(TaskOnClick);
+                    NB.onClick.AddListener(Clicked);
                 }
                 // Colour Check - Product Specifications
                 else if (chatBox.text.Contains("colo")) // American 'Color' and Australian/British 'Colour'
@@ -72,6 +85,9 @@ public class GameManager : MonoBehaviour
                     SendMessageToChat("Answer: This seller has a OneStop Rating of 4.7/5. Would you like to submit a review?", Message.MessageType.userMessage);
                     _questionOptions = true;
                     OnUserInput?.Invoke(this, System.EventArgs.Empty);
+
+                    YB.onClick.AddListener(TaskOnClick1);
+                    NB.onClick.AddListener(Clicked);
                 }
                 // Delivery Tracking System
                 else if ((chatBox.text.Contains("where") && chatBox.text.Contains("my")) || chatBox.text.Contains("when") || chatBox.text.Contains("delivery") || chatBox.text.Contains("track"))
@@ -79,6 +95,9 @@ public class GameManager : MonoBehaviour
                     SendMessageToChat("Answer: OneStop Delivery Tracking is only available for OneStop account holders. Please contact the seller directly or would you like to sign up for free?", Message.MessageType.userMessage);
                     _questionOptions = true;
                     OnUserInput?.Invoke(this, System.EventArgs.Empty);
+
+                    YB.onClick.AddListener(TaskOnClick2);
+                    NB.onClick.AddListener(Clicked);
                 }
                 // Shopping Cart / Purchase Screen - Guest Checkout / Member Checkout
                 else if (chatBox.text.Contains("pay") || chatBox.text.Contains("check") || chatBox.text.Contains("buy"))
@@ -164,6 +183,26 @@ public class GameManager : MonoBehaviour
         }
     }
 
+    void TaskOnClick()
+    {
+        SceneManager.LoadScene("PC Scene_Answer Size");
+    }
+
+    void TaskOnClick1()
+    {
+        SceneManager.LoadScene("PC Scene_Answer Review");
+    }
+
+    void TaskOnClick2()
+    {
+        SceneManager.LoadScene("PC Scene_Answer Tracking");
+    }
+
+    [System.Obsolete]
+    void Clicked()
+    {
+        Application.LoadLevel(Application.loadedLevel);
+    }
 }
 
 [System.Serializable]
