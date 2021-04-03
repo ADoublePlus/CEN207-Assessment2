@@ -78,6 +78,9 @@ public class GameManager : MonoBehaviour
                 {
                     SendMessageToChat("Answer: This product is made from 100% Cotton. Is there anything else I can help you with?", Message.MessageType.userMessage);
                     _questionOptions = false;
+
+                    YB.onClick.AddListener(TaskOnClick3);
+                    NB.onClick.AddListener(Clicked);
                 }
                 // Product Review / Seller Review - Potential Ban System
                 else if (chatBox.text.Contains("trust") || chatBox.text.Contains("rating"))
@@ -196,6 +199,11 @@ public class GameManager : MonoBehaviour
     void TaskOnClick2()
     {
         SceneManager.LoadScene("PC Scene_Answer Tracking");
+    }
+
+    void TaskOnClick3()
+    {
+        SceneManager.LoadScene("PC Scene_Answer Tee");
     }
 
     [System.Obsolete]

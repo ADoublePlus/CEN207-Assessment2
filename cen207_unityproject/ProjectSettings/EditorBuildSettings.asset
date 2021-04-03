@@ -23,4 +23,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/PC Scene_Answer Tracking.unity
     guid: d32349740850d734c9fe4da7506f7f9a
+  - enabled: 1
+    path: Assets/Scenes/PC Scene_Answer Tee.unity
+    guid: 2f77a96cf402114409e29c4c30f5d44b
   m_configObjects: {}
