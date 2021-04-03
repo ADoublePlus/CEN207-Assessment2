@@ -20,6 +20,7 @@ public class GameManager : MonoBehaviour
 
     public GameObject chatPanel, textObject;
     public InputField chatBox;
+    public Scrollbar _scrollbar;
 
     public Color userMessage, info;
 
@@ -134,6 +135,7 @@ public class GameManager : MonoBehaviour
                 Debug.Log("Space");
             }
         }
+        _scrollbar.value = 0;
     }
 
     public void SendMessageToChat(string text, Message.MessageType messageType)
@@ -169,7 +171,6 @@ public class GameManager : MonoBehaviour
                 color = userMessage;
                 break;
         }
-
         return color;
     }
 
@@ -206,10 +207,11 @@ public class GameManager : MonoBehaviour
         SceneManager.LoadScene("PC Scene_Answer Tee");
     }
 
-    [System.Obsolete]
     void Clicked()
     {
-        Application.LoadLevel(Application.loadedLevel);
+        SendMessageToChat("Answer: Sorry, I'm a dumb sloth and I couldn't understand your question. Please try again.", Message.MessageType.userMessage);
+        _questionOptions = false;
+        OnUserInput?.Invoke(this, System.EventArgs.Empty);
     }
 }
 

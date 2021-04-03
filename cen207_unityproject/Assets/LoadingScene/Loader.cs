@@ -13,6 +13,21 @@ public static class Loader
         GameScene,
         Loading,
         MainMenu,
+
+        // To Do: Create Appropriate Scenes
+        // PC Scenes
+        PC_ProductScene,
+        PC_SizeScene,
+        PC_BuyScene,
+        PC_ReviewScene,
+        PC_TrackingScene,
+
+        // App Scenes
+        App_ProductScene, // Tee scene
+        App_SizeScene,
+        App_BuyScene,
+        App_ReviewScene,
+        App_TrackingScene,
     }
 
     private static Action onLoaderCallback;
