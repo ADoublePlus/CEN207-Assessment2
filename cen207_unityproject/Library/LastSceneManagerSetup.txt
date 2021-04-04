@@ -1,25 +1,5 @@
 sceneSetups:
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-- path: Assets/Scenes/Final Scenes/App Scene Tracking.unity
-=======
-- path: Assets/Scenes/Final Scenes/App Scene Tee.unity
->>>>>>> Stashed changes
-=======
-- path: Assets/Scenes/Final Scenes/App Scene Tee.unity
->>>>>>> Stashed changes
-=======
-- path: Assets/Scenes/Final Scenes/App Scene Tee.unity
->>>>>>> Stashed changes
-=======
-- path: Assets/Scenes/Final Scenes/App Scene Report.unity
->>>>>>> parent of 2431f99 (Fixed panel)
-=======
-- path: Assets/Scenes/Final Scenes/App Scene Tee.unity
->>>>>>> Stashed changes
+- path: Assets/Scenes/Final Scenes/App Scene Checkout.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
