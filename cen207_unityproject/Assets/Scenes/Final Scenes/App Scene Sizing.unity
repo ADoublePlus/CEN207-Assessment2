@@ -583,13 +583,17 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 584058360}
-    - target: {fileID: 335665832404567280, guid: 6816c562184bc6d41a7b3504a6fb59b0, type: 3}
-      propertyPath: m_AnchorMax.x
+    - target: {fileID: 335665831919070158, guid: 6816c562184bc6d41a7b3504a6fb59b0, type: 3}
+      propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 335665832404567280, guid: 6816c562184bc6d41a7b3504a6fb59b0, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 335665832404567280, guid: 6816c562184bc6d41a7b3504a6fb59b0, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 335665832698622568, guid: 6816c562184bc6d41a7b3504a6fb59b0, type: 3}
       propertyPath: _gameManager
