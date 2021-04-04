@@ -43,11 +43,6 @@ public class GameManager : MonoBehaviour
         done = true;
     }
 
-    void Start()
-    {
-       
-    }
-
     void Update()
     {
         if (chatBox.text == "" && done == true)
