@@ -5,6 +5,24 @@ TextureImporter:
   - first:
       213: 7971294855928922878
     second: Tee Screen_0
+  - first:
+      213: -6126871195759384836
+    second: Tee Screen_1
+  - first:
+      213: 2179590656763779629
+    second: Tee Screen_2
+  - first:
+      213: 7856868060894819209
+    second: Tee Screen_3
+  - first:
+      213: -3994956483140273168
+    second: Tee Screen_4
+  - first:
+      213: 6831870196304470608
+    second: Tee Screen_5
+  - first:
+      213: -77608463002842974
+    second: Tee Screen_6
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -162,7 +180,7 @@ TextureImporter:
         width: 791
         height: 83
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -170,6 +188,132 @@ TextureImporter:
       bones: []
       spriteID: ef2ca8f007abf9e60800000000000000
       internalID: 7971294855928922878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tee Screen_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 87
+        width: 791
+        height: 1361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf66038eb1bf8faa0800000000000000
+      internalID: -6126871195759384836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tee Screen_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 92
+        width: 791
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a5a2487267f3e10800000000000000
+      internalID: 2179590656763779629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tee Screen_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 562
+        width: 791
+        height: 732
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9837fb8bfd3390d60800000000000000
+      internalID: 7856868060894819209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tee Screen_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 493
+        width: 791
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbb749ae301f88c0800000000000000
+      internalID: -3994956483140273168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tee Screen_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 429
+        width: 791
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0526e4a2fbdafce50800000000000000
+      internalID: 6831870196304470608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tee Screen_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 791
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8c62b93874ceef0800000000000000
+      internalID: -77608463002842974
       vertices: []
       indices: 
       edges: []

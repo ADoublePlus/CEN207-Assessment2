@@ -6,16 +6,16 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Final Scenes/App Scene Checkout.unity
+    path: Assets/Scenes/Final Scenes/App Scene Tee.unity
     guid: c0e1c322cca7f8e46b8fd4d2a0270b33
   - enabled: 1
     path: Assets/Scenes/Final Scenes/App Scene Report.unity
     guid: 02ef941e645b1dd48883fe98c512553b
   - enabled: 1
-    path: Assets/Scenes/Final Scenes/App Scene Sizing.unity
+    path: Assets/Scenes/Final Scenes/App Scene Sizing1.unity
     guid: 74a777cca3f364349bbccdb36f4010f2
   - enabled: 1
-    path: Assets/Scenes/Final Scenes/App Scene Tee.unity
+    path: Assets/Scenes/Final Scenes/App Scene Tee1.unity
     guid: fab44e68cbda8a541a40a92b6e635597
   - enabled: 1
     path: Assets/Scenes/Final Scenes/App Scene Tracking.unity
