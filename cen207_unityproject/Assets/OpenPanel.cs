@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.UI;
 
 public class OpenPanel : MonoBehaviour
 {
@@ -7,6 +8,8 @@ public class OpenPanel : MonoBehaviour
 
     public GameObject _togglePanelOff;
     public GameObject _togglePanelOn;
+
+    public Text welcomeText;
 
     public void PanelOpener()
     {
