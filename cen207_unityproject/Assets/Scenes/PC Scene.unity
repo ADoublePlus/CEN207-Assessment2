@@ -299,7 +299,9 @@ MonoBehaviour:
   maxMessages: 25
   chatPanel: {fileID: 2043865365}
   textObject: {fileID: 1864717063212705028, guid: 55867b439af7dfb48b8ae97bd461447b, type: 3}
+  chatPanelText: {fileID: 0}
   chatBox: {fileID: 279248188}
+  _scrollbar: {fileID: 515670108}
   userMessage: {r: 1, g: 1, b: 1, a: 1}
   info: {r: 0, g: 0.6195877, b: 0.764151, a: 1}
   _panelManager: {fileID: 1286605701}
@@ -517,8 +519,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 834692288}
   m_HandleRect: {fileID: 834692287}
   m_Direction: 2
-  m_Value: 1
-  m_Size: 1
+  m_Value: 0
+  m_Size: 0
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -792,6 +794,7 @@ MonoBehaviour:
   Panel: {fileID: 1286605697}
   _togglePanelOff: {fileID: 524882466}
   _togglePanelOn: {fileID: 1800473210}
+  welcomeText: {fileID: 0}
 --- !u!1 &584058358
 GameObject:
   m_ObjectHideFlags: 0
@@ -2178,6 +2181,7 @@ MonoBehaviour:
   Panel: {fileID: 1286605697}
   _togglePanelOff: {fileID: 524882466}
   _togglePanelOn: {fileID: 1800473210}
+  welcomeText: {fileID: 0}
 --- !u!114 &1800473213
 MonoBehaviour:
   m_ObjectHideFlags: 0

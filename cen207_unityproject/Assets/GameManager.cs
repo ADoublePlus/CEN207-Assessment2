@@ -33,10 +33,14 @@ public class GameManager : MonoBehaviour
 
     private bool _questionOptions;
 
+    bool done;
+
     void Awake()
     {
         // Set player instance on Awake()
         instance = this;
+
+        done = true;
     }
 
     void Start()
@@ -46,8 +50,15 @@ public class GameManager : MonoBehaviour
 
     void Update()
     {
+        if (chatBox.text == "" && done == true)
+        {
+            SendMessageToChat("Hello, how can I help today.", Message.MessageType.info);
+            done = false;
+        }
+
         if (chatBox.text != "")
         {
+
             if (Input.GetKeyDown(KeyCode.Return))
             {
                 SendMessageToChat(" Question: " + chatBox.text, Message.MessageType.userMessage);
