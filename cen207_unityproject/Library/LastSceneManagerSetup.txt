@@ -1,5 +1,9 @@
 sceneSetups:
+<<<<<<< Updated upstream
 - path: Assets/Scenes/Final Scenes/App Scene Tracking.unity
+=======
+- path: Assets/Scenes/Final Scenes/App Scene Tee.unity
+>>>>>>> Stashed changes
   isLoaded: 1
   isActive: 1
   isSubScene: 0

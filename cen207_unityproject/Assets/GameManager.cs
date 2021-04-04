@@ -47,7 +47,7 @@ public class GameManager : MonoBehaviour
     {
         if (chatBox.text == "" && done == true)
         {
-            SendMessageToChat("What are you after?.", Message.MessageType.info);
+            SendMessageToChat("What can I do for you?", Message.MessageType.info);
             done = false;
         }
 
@@ -90,7 +90,7 @@ public class GameManager : MonoBehaviour
                     NB.onClick.AddListener(Clicked);
                 }
                 // Product Review / Seller Review - Potential Ban System
-                else if (chatBox.text.Contains("trust") || chatBox.text.Contains("rating"))
+                else if (chatBox.text.Contains("trust") || chatBox.text.Contains("rating") || chatBox.text.Contains("review") || chatBox.text.Contains("report"))
                 {
                     SendMessageToChat("Answer: This seller has a OneStop Rating of 4.7/5. Would you like to submit a review?", Message.MessageType.userMessage);
                     _questionOptions = true;
@@ -112,8 +112,9 @@ public class GameManager : MonoBehaviour
                 // Shopping Cart / Purchase Screen - Guest Checkout / Member Checkout
                 else if (chatBox.text.Contains("pay") || chatBox.text.Contains("check") || chatBox.text.Contains("buy"))
                 {
-                    SendMessageToChat("Answer: Receive 10% off your entire cart if you sign up today for free or you can use OneStop's quick and easy guest checkout.", Message.MessageType.userMessage);
-                    _questionOptions = false;
+                    SendMessageToChat("Answer: Receive 10% off your entire cart if you sign up today for free or you can use OneStop's quick and easy guest checkout. Do you want to go to your shopping cart?", Message.MessageType.userMessage);
+                    _questionOptions = true;
+                    OnUserInput?.Invoke(this, System.EventArgs.Empty);
 
                     YB.onClick.AddListener(TaskOnClick4);
                     NB.onClick.AddListener(Clicked);
@@ -198,6 +199,7 @@ public class GameManager : MonoBehaviour
 
     void TaskOnClick()
     {
+        
         SceneManager.LoadScene("App Scene Sizing");
     }
 
@@ -242,3 +244,9 @@ public class Message
         info
     }
 }
+
+
+//yesButton.SetActive(false);
+//noButton.SetActive(false);
+
+//textInput.SetActive(false);

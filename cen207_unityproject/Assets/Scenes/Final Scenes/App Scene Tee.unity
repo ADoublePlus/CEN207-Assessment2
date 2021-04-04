@@ -302,7 +302,7 @@ MonoBehaviour:
   chatBox: {fileID: 279248188}
   _scrollbar: {fileID: 515670108}
   userMessage: {r: 0.36860093, g: 0.130162, b: 0.7075472, a: 1}
-  info: {r: 0, g: 0.6195877, b: 0.764151, a: 1}
+  info: {r: 0, g: 0.4528302, b: 0.13184965, a: 1}
   _panelManager: {fileID: 1286605701}
   messageList: []
   YB: {fileID: 909689937}
@@ -897,6 +897,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _gameManager: {fileID: 370321621}
   Panel: {fileID: 1286605697}
+  _button: {fileID: 0}
   _togglePanelOff: {fileID: 524882466}
   _togglePanelOn: {fileID: 1800473210}
   welcomeText: {fileID: 0}
@@ -1362,7 +1363,7 @@ RectTransform:
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 20, y: 20}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -2105,7 +2106,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1286605698
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2710,6 +2711,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _gameManager: {fileID: 370321621}
   Panel: {fileID: 1286605697}
+  _button: {fileID: 0}
   _togglePanelOff: {fileID: 524882466}
   _togglePanelOn: {fileID: 1800473210}
   welcomeText: {fileID: 0}

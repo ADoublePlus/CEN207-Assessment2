@@ -11,12 +11,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Final Scenes/App Scene Report.unity
     guid: 02ef941e645b1dd48883fe98c512553b
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/Final Scenes/App Scene Sizing1.unity
-    guid: 74a777cca3f364349bbccdb36f4010f2
+    path: Assets/Scenes/Final Scenes/App Scene Sizing.unity
+    guid: ac46cc26a769dd74cad88121358b14c1
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/Final Scenes/App Scene Tee1.unity
-    guid: fab44e68cbda8a541a40a92b6e635597
+    path: Assets/Scenes/Final Scenes/App Scene Checkout.unity
+    guid: d0d1e94653ca5b74dab21624aa533b31
   - enabled: 1
     path: Assets/Scenes/Final Scenes/App Scene Tracking.unity
     guid: f6de6171cf0860744b82fc3d2202daab
