@@ -19,7 +19,6 @@ public class GameManager : MonoBehaviour
     public int maxMessages = 25;
 
     public GameObject chatPanel, textObject;
-    public Text chatPanelText;
     public InputField chatBox;
     public Scrollbar _scrollbar;
 
