@@ -6,24 +6,39 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Final Scenes/App Scene Checkout.unity
+    guid: c0e1c322cca7f8e46b8fd4d2a0270b33
+  - enabled: 1
+    path: Assets/Scenes/Final Scenes/App Scene Report.unity
+    guid: 02ef941e645b1dd48883fe98c512553b
+  - enabled: 1
+    path: Assets/Scenes/Final Scenes/App Scene Sizing.unity
+    guid: 74a777cca3f364349bbccdb36f4010f2
+  - enabled: 1
+    path: Assets/Scenes/Final Scenes/App Scene Tee.unity
+    guid: fab44e68cbda8a541a40a92b6e635597
+  - enabled: 1
+    path: Assets/Scenes/Final Scenes/App Scene Tracking.unity
+    guid: f6de6171cf0860744b82fc3d2202daab
+  - enabled: 0
     path: Assets/LoadingScene/MainMenu.unity
     guid: 145df6ba242612e48a23236f9832f58e
-  - enabled: 1
+  - enabled: 0
     path: Assets/LoadingScene/Loading.unity
     guid: 8588aaab6781dc246b0350b3d77dc6d2
-  - enabled: 1
+  - enabled: 0
     path: Assets/LoadingScene/GameScene.unity
     guid: 977869dbd8af4854b98f2ce800ed43f3
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/PC Scenes/PC Scene_Answer Size.unity
     guid: 15b3c8fd6c7be3b4fb4c6d742464c978
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/PC Scenes/PC Scene_Answer Review.unity
     guid: 933e028ee3725f04a8c9d78677b9ecab
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/PC Scenes/PC Scene_Answer Tracking.unity
     guid: d32349740850d734c9fe4da7506f7f9a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/PC Scenes/PC Scene_Answer Tee.unity
     guid: 2f77a96cf402114409e29c4c30f5d44b
   m_configObjects: {}

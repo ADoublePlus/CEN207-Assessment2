@@ -47,7 +47,7 @@ public class GameManager : MonoBehaviour
     {
         if (chatBox.text == "" && done == true)
         {
-            SendMessageToChat("Hello, how can I help today.", Message.MessageType.info);
+            SendMessageToChat("What are you after?.", Message.MessageType.info);
             done = false;
         }
 
@@ -114,6 +114,9 @@ public class GameManager : MonoBehaviour
                 {
                     SendMessageToChat("Answer: Receive 10% off your entire cart if you sign up today for free or you can use OneStop's quick and easy guest checkout.", Message.MessageType.userMessage);
                     _questionOptions = false;
+
+                    YB.onClick.AddListener(TaskOnClick4);
+                    NB.onClick.AddListener(Clicked);
                 }
                 // Invalid Question / Input
                 else
@@ -195,22 +198,27 @@ public class GameManager : MonoBehaviour
 
     void TaskOnClick()
     {
-        SceneManager.LoadScene("PC Scene_Answer Size");
+        SceneManager.LoadScene("App Scene Sizing");
     }
 
     void TaskOnClick1()
     {
-        SceneManager.LoadScene("PC Scene_Answer Review");
+        SceneManager.LoadScene("App Scene Report");
     }
 
     void TaskOnClick2()
     {
-        SceneManager.LoadScene("PC Scene_Answer Tracking");
+        SceneManager.LoadScene("App Scene Tracking");
     }
 
     void TaskOnClick3()
     {
-        SceneManager.LoadScene("PC Scene_Answer Tee");
+        SceneManager.LoadScene("App Scene Tee");
+    }
+
+    void TaskOnClick4()
+    {
+        SceneManager.LoadScene("App Scene Checkout");
     }
 
     void Clicked()
