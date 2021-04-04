@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657826, g: 0.49641263, b: 0.57481676, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -680,7 +680,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -34}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -69, y: -159.99991}
+  m_AnchoredPosition: {x: -69, y: -159.99988}
   m_SizeDelta: {x: 60, y: 40}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &524882468
@@ -793,6 +793,7 @@ MonoBehaviour:
   Panel: {fileID: 1286605697}
   _togglePanelOff: {fileID: 524882466}
   _togglePanelOn: {fileID: 1800473210}
+  welcomeText: {fileID: 0}
 --- !u!224 &563216680 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 7522828571250453427, guid: 9869b30804e8d8b4a930f64817a35bde, type: 3}
@@ -1801,7 +1802,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: -20}
   m_SizeDelta: {x: -180, y: 400}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!114 &1286605699
@@ -2013,11 +2014,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7522828571250453427, guid: 9869b30804e8d8b4a930f64817a35bde, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 2.6419983
+      value: 2.6419678
       objectReference: {fileID: 0}
     - target: {fileID: 7522828571250453427, guid: 9869b30804e8d8b4a930f64817a35bde, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -0.0005493164
+      value: -0.00061035156
       objectReference: {fileID: 0}
     - target: {fileID: 7522828571250453427, guid: 9869b30804e8d8b4a930f64817a35bde, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -2179,6 +2180,7 @@ MonoBehaviour:
   Panel: {fileID: 1286605697}
   _togglePanelOff: {fileID: 524882466}
   _togglePanelOn: {fileID: 1800473210}
+  welcomeText: {fileID: 0}
 --- !u!114 &1800473213
 MonoBehaviour:
   m_ObjectHideFlags: 0

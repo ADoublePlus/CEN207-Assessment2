@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Final Scenes/App Scene Sizing.unity
+- path: Assets/Scenes/Final Scenes/App Scene Checkout.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
